@@ -1,2 +1,7 @@
+<<<<<<<
 sadsa
 sadsa
+=======
+snaf
+sda
+>>>>>>>
